@@ -1,6 +1,6 @@
 {
-  "name": "birthday-reminder",
-  "homepage": "https://github.com/tembanator/birthday-reminder",
+  "name": "bday-reminder",
+  "homepage": "https://github.com/tembanator/bday-reminder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
