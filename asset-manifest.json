@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tembanator/bday-reminder/static/css/main.1a9dd195.css",
-    "main.js": "/tembanator/bday-reminder/static/js/main.0c916974.js",
-    "index.html": "/tembanator/bday-reminder/index.html",
-    "main.1a9dd195.css.map": "/tembanator/bday-reminder/static/css/main.1a9dd195.css.map",
-    "main.0c916974.js.map": "/tembanator/bday-reminder/static/js/main.0c916974.js.map"
+    "main.css": "/bday-reminder/static/css/main.1a9dd195.css",
+    "main.js": "/bday-reminder/static/js/main.0c916974.js",
+    "index.html": "/bday-reminder/index.html",
+    "main.1a9dd195.css.map": "/bday-reminder/static/css/main.1a9dd195.css.map",
+    "main.0c916974.js.map": "/bday-reminder/static/js/main.0c916974.js.map"
   },
   "entrypoints": [
     "static/css/main.1a9dd195.css",
